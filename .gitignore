@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Folders to ignore
+Data/
+Index_Replication_Data/
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
